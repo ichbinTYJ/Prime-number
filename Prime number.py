@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  7 20:38:11 2018
 
-@author: 唐晔峻
-"""
 def genPrimes():
     p=[]
     if p==[]:
